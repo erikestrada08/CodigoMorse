@@ -1,0 +1,15 @@
+C:\Users\estra\Desktop\CodigoMorse\bin\Debug\net6.0\CodigoMorse.exe
+C:\Users\estra\Desktop\CodigoMorse\bin\Debug\net6.0\CodigoMorse.deps.json
+C:\Users\estra\Desktop\CodigoMorse\bin\Debug\net6.0\CodigoMorse.runtimeconfig.json
+C:\Users\estra\Desktop\CodigoMorse\bin\Debug\net6.0\CodigoMorse.dll
+C:\Users\estra\Desktop\CodigoMorse\bin\Debug\net6.0\CodigoMorse.pdb
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.csproj.AssemblyReference.cache
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.AssemblyInfoInputs.cache
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.AssemblyInfo.cs
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.csproj.CoreCompileInputs.cache
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.dll
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\refint\CodigoMorse.dll
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.pdb
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\CodigoMorse.genruntimeconfig.cache
+C:\Users\estra\Desktop\CodigoMorse\obj\Debug\net6.0\ref\CodigoMorse.dll
